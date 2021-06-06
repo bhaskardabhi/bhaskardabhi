@@ -1,6 +1,6 @@
 # Bhaskar Dabhi
 
-Work @ Plus91 as Senior Software developer.
+Work @ Plus91 Technologies as Senior Software developer.
 
 ### My opensource contributions:
 
